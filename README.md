@@ -16,7 +16,7 @@ https://github.com/usualketchup/employeetracker
 
 * The command-line application allows users to be able to add departments, roles, employees.View departments, roles, employees and update employee roles.
 
-## Bonus Part
+## Additional Features
 
 * The command-line application also allows users to:
 
@@ -30,19 +30,19 @@ https://github.com/usualketchup/employeetracker
 
   * View the total utilized budget of the **C**ompany -- ie the combined salaries of all employees in that department
 
-## Technologies:-
+## Technologies:
 
     * Mysql2
     * Inquirer
-    * Visual Studio Code
+    * Console.table
     * Node
     * Local Port
     * Database
-    * Console.table
+    
 
-## Challenges:-
+## Challenges:
 
-* This activity was not much difficult because we did a number of activities in class already and worked a lot of time using Inquirer and classess. I started my pseudo-code to work with. Created sql files to start with creating my databse and so on. 
+* This activity was not very difficult at all because we did a number of similar activities in class and spent a lot of time using Inquirer, MySQL, and Node. Once I created the database and used MySQL Workbench to manage my database this worked out great!
 
-![image](images/employeeTracker.gif)
+![image](images/employeetracker.gif)
 
