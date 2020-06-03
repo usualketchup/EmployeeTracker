@@ -10,7 +10,7 @@ https://github.com/usualketchup/employeetracker
 
 * The application has a `Queries.json` file that holds all queries and `Action.json` that has all functions and retrieves queries from respective file. The `app.json` renders all inquirer prompts and displays all results. The `Question.json` holds all choices for users. There are three i.e ,department , employee and role Classes being used by `controller.json` file. 
 
-* There is a `seed.sql` file  and `schema.sql`being pre-populated database. This makes development of individual features much easier.
+* There is a `allinfo.sql` file that SQL Workbench uses. This makes development of individual features much easier.
 
 ## User Story
 
